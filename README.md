@@ -1,7 +1,7 @@
 # message-to-embed
 Simple bot that transfers all discord messages into embeds
 
-##Steps
+## Steps
 1. Download the zip file
 2. Unzip it.
 3. Open the config.json in notepad or your normal text editor.
