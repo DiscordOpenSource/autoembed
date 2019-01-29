@@ -16,3 +16,4 @@ Simple bot that transfers all discord messages into nice little embeds.
 
 ## Goals
 [X] Add Image Support
+[X] Add Attachment Support
