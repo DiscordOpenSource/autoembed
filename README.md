@@ -1,6 +1,3 @@
-# AutoEmbed
-Simple bot that transfers all discord messages into nice little embeds.
-
 ## Steps
 1. Download the zip file
 2. Unzip it.
