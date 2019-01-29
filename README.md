@@ -1,5 +1,5 @@
-# message-to-embed
-Simple bot that transfers all discord messages into embeds
+# AutoEmbed
+Simple bot that transfers all discord messages into nice little embeds.
 
 ## Steps
 1. Download the zip file
@@ -13,3 +13,6 @@ Simple bot that transfers all discord messages into embeds
 9. Once it is done type node .
 10. Invite the bot to your server, You can generate an invite here. **https://discordapi.com/permissions#1234**
 11. Your Done! Enjoy the embeds.
+
+## Goals
+[X] Add Image Support
