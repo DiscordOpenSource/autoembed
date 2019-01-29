@@ -1,6 +1,7 @@
 const Discord = require("discord.js"); // Imports Discord.js Package
 const client = new Discord.Client(); // Creates the Discord Client
 const config = require('config.json');  // Imports the Config
+
 client.on("message", message => {
   // Waits for a message
   if (message.author.id === client.user.id) return; // Prevents the bot from spamming the chat.
