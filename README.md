@@ -1,4 +1,6 @@
-## Steps
+# AutoEmbed
+
+## Installation Steps
 1. Download the zip file
 2. Unzip it.
 3. Open the config.json in notepad or your normal text editor.
@@ -12,5 +14,4 @@
 11. Your Done! Enjoy the embeds.
 
 ## Goals
-[X] Add Image Support
-[X] Add Attachment Support
+None yet
